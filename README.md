@@ -38,7 +38,9 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 - *Population 1024 - GENERATION 14:* sqrt((a \* a) + (b \* b))
 
 **With graphs**
+
 ![Tree graph pop 300 gen 14 pdf](results/withElitizm/pop300/graphs/pdf/graph_14.pdf)
+
 ![Tree graph pop 1024 gen 14 pdf](results/withElitizm/pop1024/graphs/pdf/graph_14.pdf)
 
 ## Without Elitizm
@@ -54,7 +56,9 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 - *Population 1024 - GENERATION 14:* (a - sqrt(sqrt(sqrt(b)))) + (b \* sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt((a - a) + (a + b))))))
 
 **With graphs**
+
 ![Tree graph pop 300 gen 14 pdf](results/withoutElitizm/pop300/graphs/pdf/graph_14.pdf)
+
 ![Tree graph pop 1024 gen 14 pdf](results/withoutElitizm/pop1024/graphs/pdf/graph_14.pdf)
 
 
