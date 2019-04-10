@@ -1,6 +1,6 @@
 # Symbolic Regression with Genetic Programming
 
-One of the standard use of Genetic Programmig (GP) is symbolic regression and in this project problem is with two dimensional *[Pythagoras Theorem]*(https://en.wikipedia.org/wiki/Pythagorean_theorem) $$ c^2 = a^2 + b^2 $$ in other way around $$ c = \sqrt {a^2 + b^2} $$. In this two dimensional case the problem to be solved is finding the $$ f $$ function that has is defined as $$ f(a_i, b_i) = c_i $$ with consideration of given inputs $$ <a_i, b_i, c_i> $$. In this sense, these inputs are called as fitness cases.
+One of the standard use of Genetic Programmig (GP) is symbolic regression and in this project problem is with two dimensional [*Pythagoras Theorem*](https://en.wikipedia.org/wiki/Pythagorean_theorem) ![](https://latex.codecogs.com/gif.latex?c^2&space;=&space;a^2&space;&plus;&space;b^2) in other way around ![](https://latex.codecogs.com/gif.latex?c&space;=&space;\sqrt&space;{a^2&space;&plus;&space;b^2}). In this two dimensional case the problem to be solved is finding the _f_ function that has is defined as ![](https://latex.codecogs.com/gif.latex?f(a_i,&space;b_i)&space;=&space;c_i) with consideration of given inputs ![](https://latex.codecogs.com/gif.latex?<a_i,&space;b_i,&space;c_i>). In this sense, these inputs are called as fitness cases.
 
 ## Fitness Cases
 
@@ -20,7 +20,7 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 **Function set:** { +, -, \*, /, sqrt }
 **Terminal set:** { a, b, c }
 
-- Implemented in Java with the help of *[ECJ Project]*(http://cs.gmu.edu/~eclab/projects/ecj/).
+- Implemented in Java with the help of [*ECJ Project*](http://cs.gmu.edu/~eclab/projects/ecj/).
 
 - Resulted solution trees and c syntax programms are under the results directory with some usefull python and bash scripts that are used for generating tree graphs in pdf form.
 
@@ -41,7 +41,7 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 
 ## Without Elitizm
 ### Fitness Graphs
-Population Size
+
 | Population Size 300  | Population Size 1024  |
 |:------:|:------:|
 | ![fitness graph 3](results/withoutElitizm/pop300/std_fitness.png) | ![fitness graph 4](results/withoutElitizm/pop1024/std_fitness.png) |
@@ -51,6 +51,6 @@ Population Size
 - **Population 300 - GENERATION 14 :**  (sqrt(a) - (((b \* a) \* (b - b)) \* ((b - b) + ((a / b) \* b)))) \* sqrt(b \* ((a / b) + (((a + (b - b)) / a) / (a / b))))
 - **Population 1024 - GENERATION 14 :** (a - sqrt(sqrt(sqrt(b)))) + (b \* sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt((a - a) + (a + b))))))
 
-![Tree graph pop 300 gen 14](results/withElitizm/pop300/graphs/pdf/graph_14.pdf) ![Tree graph pop 1024 gen 14](results/withElitizm/pop1024/graphs/pdf/graph_14.pdf)
+![Tree graph pop 300 gen 14](results/withoutElitizm/pop300/graphs/pdf/graph_14.pdf) ![Tree graph pop 1024 gen 14](results/withoutElitizm/pop1024/graphs/pdf/graph_14.pdf)
 
 
