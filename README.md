@@ -27,9 +27,8 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 # Results
 ## With Elitizm
 ### Fitness Graphs
-| Population Size |
-|:---------------:|
-|   300  |  1024  |
+
+|   Population Size 300  | Population Size 1024  |
 |:------:|:------:|
 | ![fitness graph 1](results/withElitizm/pop300/std_fitness.png) | ![fitness graph 2](results/withElitizm/pop1024/std_fitness.png) |
 
@@ -38,21 +37,20 @@ One of the standard use of Genetic Programmig (GP) is symbolic regression and in
 - **Population 300 - GENERATION 14 :**  sqrt(a) \* sqrt(b \* ((a / b) + (b / a)))
 - **Population 1024 - GENERATION 14 :** sqrt((a \* a) + (b \* b))
 
-![Tree graph pop 300 gen 14](results/withElitizm/pop300/pdf/graph_14.pdf)  ![Tree graph pop 1024 gen 14](results/withElitizm/pop1024/pdf/graph_14.pdf)
+![Tree graph pop 300 gen 14](results/withElitizm/pop300/graphs/pdf/graph_14.pdf)  ![Tree graph pop 1024 gen 14](results/withElitizm/pop1024/graphs/pdf/graph_14.pdf)
 
 ## Without Elitizm
 ### Fitness Graphs
-| Population Size |
-|:---------------:|
-|   300  |  1024  |
+Population Size
+| Population Size 300  | Population Size 1024  |
 |:------:|:------:|
-| ![fitness graph 3](results/withoutElitizm/pop300/std_fitness.png)| ![fitness graph 4](results/withoutElitizm/pop1024/std_fitness.png) |
+| ![fitness graph 3](results/withoutElitizm/pop300/std_fitness.png) | ![fitness graph 4](results/withoutElitizm/pop1024/std_fitness.png) |
 
 ### Program Tree examples
 **With C syntax**
 - **Population 300 - GENERATION 14 :**  (sqrt(a) - (((b \* a) \* (b - b)) \* ((b - b) + ((a / b) \* b)))) \* sqrt(b \* ((a / b) + (((a + (b - b)) / a) / (a / b))))
 - **Population 1024 - GENERATION 14 :** (a - sqrt(sqrt(sqrt(b)))) + (b \* sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt((a - a) + (a + b))))))
 
-![Tree graph pop 300 gen 14](results/withElitizm/pop300/pdf/graph_14.pdf) ![Tree graph pop 1024 gen 14](results/withElitizm/pop1024/pdf/graph_14.pdf)
+![Tree graph pop 300 gen 14](results/withElitizm/pop300/graphs/pdf/graph_14.pdf) ![Tree graph pop 1024 gen 14](results/withElitizm/pop1024/graphs/pdf/graph_14.pdf)
 
 
