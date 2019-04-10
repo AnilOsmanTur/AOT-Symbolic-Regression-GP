@@ -1,0 +1,800 @@
+-----------------------
+GENERATION 0
+-----------------------
+sqrt((sqrt(b) * (a + b)) * sqrt(a + a))
+-----------------------
+GENERATION 1
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / a) / sqrt((a / b) + (a + b))))
+-----------------------
+GENERATION 2
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / a) / sqrt((a / b) + ((((sqrt(a) / sqrt(b)) * ((b + b) + sqrt(a))) * ((sqrt(b) + sqrt(b)) * ((a - a) * sqrt(b)))) + b))))
+-----------------------
+GENERATION 3
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / a) / sqrt((a / b) + b)))
+-----------------------
+GENERATION 4
+-----------------------
+(sqrt(sqrt(a) * sqrt(b - b)) + ((b - (b * b)) / ((a / b) - (a + b)))) + a
+-----------------------
+GENERATION 5
+-----------------------
+(sqrt(sqrt(a) * sqrt(b - b)) + ((b - (b * b)) / ((a / b) - (a + b)))) + a
+-----------------------
+GENERATION 6
+-----------------------
+(sqrt(a * sqrt(b - b)) + ((b - (b * b)) / ((a / b) - (a + b)))) + a
+-----------------------
+GENERATION 7
+-----------------------
+(a - sqrt(sqrt(((b - b) - (a - b)) + sqrt(a - b)))) + (b * sqrt((b / sqrt(b + a)) / a))
+-----------------------
+GENERATION 8
+-----------------------
+(a - sqrt(((b - a) + (a - b)) + sqrt(a))) + (b * sqrt((b / sqrt(a)) / (b - (b / a))))
+-----------------------
+GENERATION 9
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / a) / ((b - b) + sqrt(b))))
+-----------------------
+GENERATION 10
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / sqrt(a)) / sqrt((b * a) + (((b - b) + sqrt(b)) + b))))
+-----------------------
+GENERATION 11
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt(sqrt(a * a) / (((a - (b / b)) + (((sqrt(b) + sqrt(b)) * ((a - a) * (b / a))) / ((a / b) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt(a)) / b) + (a + b))))
+-----------------------
+GENERATION 12
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt(sqrt(a * a) / (((a - (b / b)) + (((sqrt(b) + sqrt(b)) * ((a - a) * (b / a))) / ((a / b) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt(a)) / b) + (a + b))))
+-----------------------
+GENERATION 13
+-----------------------
+(a - sqrt(sqrt(a / ((sqrt(a - sqrt((b + ((a * a) / (a * (a + a)))) / a)) - ((b * (b - b)) * ((b - b) + sqrt(b)))) * sqrt(b))) / (sqrt(b) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt(a)) / ((a + b) - sqrt(a))) + (a + b))))
+-----------------------
+GENERATION 14
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt((a - a) + (a + b))))))
+-----------------------
+GENERATION 15
+-----------------------
+(a - sqrt((b / sqrt(b + a)) / (sqrt(b) * (a / b)))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 16
+-----------------------
+(a - sqrt(sqrt(a) / (sqrt(b) * (a / b)))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 17
+-----------------------
+(a - sqrt(sqrt(a) / (sqrt(b) * (a / b)))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 18
+-----------------------
+(a - sqrt(sqrt((b / a) / ((sqrt((a - b) / (b * b)) + (a + b)) + a)))) + (b * sqrt((b / sqrt(b + a)) / sqrt(sqrt(a) + ((a + ((a * sqrt((a * a) + b)) / (b / a))) + b))))
+-----------------------
+GENERATION 19
+-----------------------
+(a - sqrt(sqrt(b / a))) + (b * sqrt((b / a) / sqrt(((a + (b / ((sqrt(a) / ((((a - a) * sqrt(b)) + sqrt(b)) * ((b + b) + sqrt(a)))) * ((a * b) * ((a * (sqrt(b) / ((b - b) / sqrt(a)))) - sqrt(a)))))) / (b / b)) + sqrt(a))))
+-----------------------
+GENERATION 20
+-----------------------
+((sqrt((b - a) / sqrt(a)) + a) - sqrt((sqrt(b) + (b / a)) / (((a - (b / b)) + (((sqrt(sqrt(b / a)) / ((b - b) / sqrt(a))) * ((a - a) * (b / a))) / ((a / b) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt(a)) / b) + (a + b))))
+-----------------------
+GENERATION 21
+-----------------------
+a + ((sqrt(b) + ((b - ((sqrt(b) * sqrt(a)) + b)) / (a + b))) / ((sqrt(b) * ((a / a) + ((sqrt(b) * (a / b)) / sqrt(b)))) / b))
+-----------------------
+GENERATION 22
+-----------------------
+a + ((sqrt(b) + ((b - ((sqrt(b) * sqrt(a)) + b)) / (a + b))) / ((sqrt(b) * ((a / a) + ((sqrt(b) * (a / b)) / sqrt(b)))) / b))
+-----------------------
+GENERATION 23
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt(((a * (sqrt(b) / ((b - (a / a)) / sqrt(b)))) - sqrt(a)) * ((sqrt(sqrt(a - sqrt(b / a))) / b) + (a + b)))))))
+-----------------------
+GENERATION 24
+-----------------------
+(a - sqrt(sqrt(sqrt(b)))) + (b * sqrt((b / sqrt(b)) / (a + ((b / a) / sqrt(((a * (sqrt(b) / ((b - (a / a)) / sqrt(b)))) - sqrt(a)) * ((sqrt(sqrt(a - sqrt(b / a))) / b) + (a + b)))))))
+-----------------------
+GENERATION 25
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((sqrt(a * a) + (sqrt((b / a) / sqrt((((a + b) - a) / ((a + b) - sqrt(a))) + (a + b))) / (((sqrt(sqrt(a)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt(sqrt(a) + ((a + (b / a)) + b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + (a + b)))))
+-----------------------
+GENERATION 26
+-----------------------
+(a - sqrt(sqrt(a / ((sqrt(a - sqrt(((sqrt(b) + (b - b)) + ((a * a) / (a * (a + a)))) / a)) - (((((sqrt(a - a) + (b - b)) / ((a + sqrt(b)) + b)) * b) * (b - b)) * (((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + (b * a)) / b) + sqrt(b)))) * sqrt(b))) / (sqrt(b) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(a) - ((b / a) / sqrt((sqrt(sqrt(a)) / b) + (a + b))))) + (a + a))))
+-----------------------
+GENERATION 27
+-----------------------
+(a - sqrt((b / sqrt(b + a)) / sqrt(sqrt(a)))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 28
+-----------------------
+(a - sqrt(sqrt(a / ((sqrt(a - sqrt(((sqrt(b) + (b - b)) + ((a * a) / (a * (a + a)))) / a)) - (((((sqrt(a - a) + (b - b)) / ((a + sqrt(b)) + b)) * b) * (b - b)) * (((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + (b * a)) / b) + sqrt(b)))) * sqrt(b))) / (sqrt(b) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(a) - ((b / a) / sqrt((sqrt(sqrt(a)) / b) + (a + b))))) + (a + a))))
+-----------------------
+GENERATION 29
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + (((sqrt(b) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(sqrt(a))) + (b * sqrt(sqrt(b)))))))) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((sqrt(sqrt(a)) / ((a - sqrt(sqrt(sqrt(b)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 30
+-----------------------
+(a - sqrt((b / sqrt(b + sqrt(b))) / sqrt(a))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 31
+-----------------------
+(a - sqrt((b / sqrt(a)) / sqrt(b))) + (b * sqrt((b / (a + (b / a))) / sqrt(a)))
+-----------------------
+GENERATION 32
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + (((sqrt(b) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(sqrt(a))) + (b * sqrt(sqrt(b)))))))) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(b))) / b) / ((a - sqrt(sqrt(sqrt(b)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 33
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + (((sqrt(b) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(sqrt(a))) + (b * sqrt(sqrt(b)))))))) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(b))) / b) / ((a - sqrt(sqrt(sqrt(b)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 34
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((sqrt(sqrt(a)) / ((a - sqrt(sqrt(sqrt(b)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 35
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((sqrt(sqrt(a)) / ((a - ((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 36
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((a + b) - sqrt(sqrt(a))) / ((a - ((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 37
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((a + b) - sqrt(a + b)) / ((a - ((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a)))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b * b) * (a / b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 38
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * ((((sqrt(b) * (a / b)) + (a + b)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt(sqrt(a) + ((a + (b / a)) + b)))) - ((b / a) / sqrt((sqrt(a) / b) + (a + b))))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + b))))
+-----------------------
+GENERATION 39
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * ((((sqrt(b) * (a / b)) + (a + b)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt(sqrt(a) + ((a + (b / a)) + b)))) - ((b / a) / sqrt((sqrt(a) / b) + (a + b))))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + b))))
+-----------------------
+GENERATION 40
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * (sqrt(b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * ((((sqrt(b) * (a / b)) + (a + b)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt(sqrt(a) + ((a + (b / a)) + b)))) - ((b / a) / sqrt((sqrt(a) / b) + (a + b))))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + b))))
+-----------------------
+GENERATION 41
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((sqrt(sqrt(b)) / sqrt((((a + b) - a) / ((a + b) - sqrt(a))) + (a + b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a + (a + b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 42
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((sqrt(sqrt(b)) / sqrt((((a + b) - a) / ((a + b) - sqrt(a))) + (a + b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a + (a + b)) + sqrt(b)) + (a - sqrt(b + a))) + b) / b) + (a + b))))
+-----------------------
+GENERATION 43
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * (((b - b) - a) * (sqrt((b - a) / ((a + b) / a)) + a))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(b / a) / b) + (a + b))))
+-----------------------
+GENERATION 44
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * ((a + b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * (((b - b) - a) * (sqrt((b - a) / ((a + b) / a)) + a))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(b - b) / b) + (a + b))))
+-----------------------
+GENERATION 45
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt((sqrt(sqrt(b - a)) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * (sqrt(b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * ((((sqrt(b) * b) + (a + b)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b + a) + ((a + (b / a)) + b)))) - ((b / a) / sqrt((sqrt(a) / b) + (a + b))))) / ((((b - a) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + b))))
+-----------------------
+GENERATION 46
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 47
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 48
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b / a)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 49
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b / a)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 50
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(sqrt(sqrt(b - a)))) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((b - a) / (b / a)) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 51
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((b - a) / (b / a)) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 52
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(sqrt(sqrt(b)) * (b - b))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 53
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt((a + b) / a) / b) / ((a - sqrt(sqrt(sqrt(b)) * (b - b))) - (sqrt(sqrt(b)) * (b - b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 54
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((b - a) / (b / a)) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(b)) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 55
+-----------------------
+((sqrt((b - a) / ((a + b) / a)) + a) - sqrt((sqrt(((b - a) / b) + (a + (a + b))) + (b / a)) / ((a + ((((b + a) / ((b - b) / ((a + (sqrt(sqrt(b)) * (b - b))) * (sqrt(b) * ((a - sqrt(b - a)) + (b * sqrt(sqrt(b)))))))) * ((((sqrt(b) * (a * (a + a))) + (a + b)) / (((a / b) - sqrt(sqrt(sqrt(b)))) - sqrt(sqrt(a) + ((a + (b / a)) + b)))) - (sqrt(sqrt(sqrt(b))) / a))) / (((((b - a) / ((a + b) / a)) / (b / a)) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(sqrt((a + b) + a)) / b) + (a + b))))
+-----------------------
+GENERATION 56
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((a + b) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((b - a) / (b / (b - b))) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(b)) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 57
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((a + b) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((b - a) / (b / a)) + ((a + b) + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(b)) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 58
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(sqrt(sqrt(a))) / b) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (b / a)) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + sqrt(b)) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 59
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((a / b) - sqrt(sqrt(sqrt(b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 60
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((a + (b / a)) / b) / ((a - sqrt(sqrt(sqrt(b)) * (b - b))) - (sqrt(sqrt(b)) * (b - (b - a))))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((a * (a / b)) + sqrt(b)) + ((a + b) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 61
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((((sqrt(b) * (((b - a) / ((a + b) / a)) + (b * sqrt(sqrt(b))))) - a) / ((a - sqrt(a + b)) - (sqrt(sqrt(b)) * (b + a)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((a + b) / a) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 62
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt((a + b) / a) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 63
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((a + b) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 64
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((a + b) * (a / b)) + sqrt(b)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 65
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((a + b) * (a / b)) + sqrt(b)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 66
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 67
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 68
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 69
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 70
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 71
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 72
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 73
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 74
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 75
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 76
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 77
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + (sqrt(b) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 78
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b / a) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (a - sqrt(b - a))) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 79
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + ((a + (b / a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 80
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((b / ((a - sqrt(b - a)) - ((b / a) * sqrt(b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((a + b) * (a / b)) + sqrt(b)) + ((sqrt(b) + a) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 81
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / (((b / ((a - sqrt(b - a)) - ((b / a) * sqrt(b)))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((a + b) * (a / b)) + sqrt(b)) + ((sqrt(b) + a) + a)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 82
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + (a / b)) * (a / b)) + sqrt(b)) + ((a + (sqrt((b - a) / (a + b)) + a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 83
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((b - b) + b) / a) + ((a + (b / a)) + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + (a + b))))
+-----------------------
+GENERATION 84
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + (a / b)) * (a / b)) + sqrt(b)) + ((a + (sqrt((b - a) / (a + b)) + a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 85
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b) + a) * (a / b)) + sqrt(b)) + ((a + (sqrt((b - a) / (a + b)) + a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 86
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a - sqrt(sqrt(sqrt(b)))) * (a / b)) + sqrt(b)) + ((a + (sqrt((b - a) / sqrt(b)) + a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 87
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(b - b) + (a + b)) * (a / b)) + sqrt(a + b)) + (((a - sqrt(a + b)) - sqrt(b)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 88
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a + a) * (a / b)) + sqrt(b)) + sqrt(((a + b) / a) / (a / a))) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 89
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a + a) * (a / b)) + sqrt(b)) + sqrt(((a + b) / a) / (a / a))) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 90
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a + a) * (a / b)) + sqrt(b)) + sqrt(((a + b) / a) / (a / a))) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 91
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a + a) * (a / b)) + sqrt(b)) + sqrt(((a + b) / a) / (a / a))) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 92
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a + a) * (a / b)) + sqrt(b)) + sqrt(((a + b) / a) / (a / a))) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 93
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + (b / (b - b))) + ((a + (sqrt((b - a) / (a + b)) + a)) + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 94
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 95
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 96
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 97
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 98
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 99
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 100
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 101
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 102
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 103
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 104
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 105
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt(a + a) + a) * (a / b)) + sqrt(b)) + (a + a)) + b) + b) / b) + (a + b))))
+-----------------------
+GENERATION 106
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a + b) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - ((b - a) * (sqrt(b) + a)))) + (a + b)))))
+-----------------------
+GENERATION 107
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a + b) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - ((b - a) * (sqrt(b) + a)))) + (a + b)))))
+-----------------------
+GENERATION 108
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a + b) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - ((b - a) * (sqrt(b) + a)))) + (a + b)))))
+-----------------------
+GENERATION 109
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(a + b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - b) / (sqrt(sqrt(b)) + (((a + b) + (b / a)) + b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((sqrt((b - a) / (b / a)) + a) + ((a + (b - b)) + b)) * (a / b)) + sqrt(b - a)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((((b - b) + (a / a)) - a) / ((a - sqrt(b - a)) - (sqrt(sqrt(b)) * ((b - b) + ((b / a) + (b / a)))))) + (a + b)))))
+-----------------------
+GENERATION 110
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / (sqrt(b - b) + (a + b))) + (a + b)))))
+-----------------------
+GENERATION 111
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((sqrt(a + ((b - a) / ((a + b) / a))) / (((b / a) / (b / a)) + (((a + b) / a) / (a / a)))) + (a + b))) + (a + b)))))
+-----------------------
+GENERATION 112
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / b) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - ((((b - a) / ((a + b) * (((a + b) + (b / a)) * (a + a)))) - a) * (sqrt(sqrt(b)) + a)))) + (a + b)))))
+-----------------------
+GENERATION 113
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((b + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - ((b - a) * (sqrt(b) + a)))) + (a + b)))))
+-----------------------
+GENERATION 114
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a / ((b / a) + (b / a))) + (a + b)) * (a / b)) + sqrt(b)) + ((b - a) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 115
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a / ((b / a) + (b / a))) + (a + b)) * (a / b)) + sqrt(b)) + ((b - a) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 116
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(a / ((b / a) + (b / a))) + (a + b)) * (a / b)) + sqrt(b)) + ((b - a) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 117
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(sqrt(sqrt(b))) + (a + b)) * (a / b)) + sqrt(a + b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - ((b * sqrt(sqrt(a))) * (sqrt(sqrt(b)) + a)))) / ((a - sqrt(sqrt(b))) - ((a + b) * (((a / b) / b) + a)))) + (a + b)))))
+-----------------------
+GENERATION 118
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(sqrt(b) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 119
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / (b / a)) / (a / a)) + (a + a)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 120
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / (b / a)) / (a / a)) + (a + a)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 121
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / (b / a)) / (a / a)) + (a + a)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 122
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / (b / a)) / sqrt(b)) + (a + a)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + ((a / b) + (a + b)))))
+-----------------------
+GENERATION 123
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - b)) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 124
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 125
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 126
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 127
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(((a + b) / a) / (a / a)) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 128
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a / b) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 129
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a / b) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 130
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a / b) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 131
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a / b) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 132
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((((((((a / b) + (a + b)) * (a / b)) + sqrt(b)) + (a + b)) + b) / b) + ((a / ((a - sqrt(sqrt(b))) - (((sqrt(b) + (b - (b - b))) - a) * (b + sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 133
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / ((a - ((a - sqrt(a + b)) - ((a / b) + (a + b)))) - (b / a))) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 134
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / ((a - ((a - sqrt(a + b)) - (sqrt(b) + (b / a)))) - (((((a / b) / b) + a) + (((a / b) + (b / a)) + b)) * (a / b)))) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 135
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / (b - b)) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 136
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / ((a - ((a - sqrt(a + b)) - (sqrt(b) + (b / a)))) - (((((a / b) / b) + a) + (((a / b) + (b / a)) + b)) * (a / b)))) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 137
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / ((a - ((a - sqrt(a + b)) - (sqrt(b) + (b / a)))) - (((((a / b) / b) + a) + (((a / b) + (b / a)) + b)) * (a / b)))) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 138
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(b)) + ((a + sqrt(a)) + a)) + b) / b) + ((sqrt(sqrt(a)) / (((b / a) / ((a - ((a - sqrt(a + b)) - ((a / b) + (a + b)))) - ((sqrt(b) + (((a / b) + (b / a)) + b)) * (sqrt((b - a) / (b / a)) + ((b / a) + (b / a)))))) + ((b - a) / (b / a)))) + (a + b)))))
+-----------------------
+GENERATION 139
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((((b / a) + a) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / (a - ((b * sqrt(sqrt(b))) * (((b - a) / (b / a)) + a)))) / ((b / a) - ((b - a) / ((a - sqrt(sqrt(sqrt(a)))) - sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 140
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((((b / a) + a) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / (a - (sqrt(b) * (((b - a) / (b / a)) + a)))) / ((b / a) - ((b - a) / ((a - sqrt(sqrt(sqrt(a)))) - sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 141
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((sqrt(b) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + (b / a)) + a)) + b) / b) + ((sqrt(sqrt(b - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 142
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((((b / a) + a) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / (a - ((sqrt(b / a) * sqrt(sqrt(b))) * ((a / b) + a)))) / ((b / a) - ((b - a) / ((a - sqrt(sqrt(sqrt(a)))) - sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 143
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((((b / a) + a) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / (a - ((sqrt(b / a) * sqrt(sqrt(b))) * ((a / b) + a)))) / ((b / a) - ((b - a) / ((a - sqrt(sqrt(sqrt(a)))) - sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 144
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((sqrt(b) + (b / a)) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((((b / a) + a) + (a + b)) * (a / b)) + sqrt(b)) + ((sqrt(b) + (b / a)) + a)) + b) / b) + (((a / (a - ((sqrt(b / a) * sqrt(sqrt(b))) * ((a / b) + a)))) / ((b / a) - ((b - a) / ((a - sqrt(sqrt(sqrt(a)))) - sqrt(b))))) + (a + b)))))
+-----------------------
+GENERATION 145
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((sqrt(b) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 146
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((sqrt(b) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 147
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((sqrt(b) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 148
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((sqrt(b) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 149
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt((a + b) - a)) + ((b / a) + a)) + b) / b) + ((sqrt(sqrt(b - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 150
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b / a))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 151
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b / a))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 152
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(a + b)) + ((b / a) + a)) + b) / b) + ((sqrt(sqrt(b - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 153
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 154
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 155
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 156
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 157
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 158
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(sqrt(b) + (b - b)) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 159
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(sqrt(b))) + ((sqrt(sqrt(sqrt(b))) + (b - a)) + a)) + b) / b) + ((sqrt(sqrt(sqrt(b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(sqrt(b)) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 160
+-----------------------
+((sqrt((b - a) / (b / a)) + a) - sqrt((sqrt(b) + (b / a)) / ((a + ((sqrt(b) * (((sqrt(b) + (b - b)) - a) * (a + a))) / ((((b - a) / ((a - sqrt(a + b)) - sqrt(b))) + (a + b)) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt(((((((sqrt(b / a) + (a + b)) * (a / b)) + sqrt(((sqrt(b) / (b / a)) + (b - b)) - a)) + ((sqrt(sqrt(sqrt(b))) + ((b / a) + a)) + a)) + b) / b) + ((sqrt(sqrt((a - sqrt(sqrt(b))) - (b - b))) / (((b / a) / ((a - ((a - sqrt(sqrt(a))) - ((a / b) + ((a + b) + b)))) - ((sqrt(a + b) + (((a / b) + (b / a)) + b)) * (a / b)))) + (b / a))) + (a + b)))))
+-----------------------
+GENERATION 161
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(b / a)) + (sqrt(b) * sqrt(sqrt(a)))) / (a - sqrt((b * sqrt(sqrt(a))) + (b + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + sqrt(b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(a + b) / b) + a) / ((a + (b - a)) + b)) + (a + (sqrt(sqrt(b) + (a + b)) + (b / a)))) / (sqrt(a) / a)))) + (a + b))))
+-----------------------
+GENERATION 162
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(b / a)) + (sqrt(b) * sqrt(sqrt(a)))) / (a - sqrt((b * sqrt(sqrt(a))) + (b + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + sqrt(b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(a + b) / b) + a) / ((a + (b - a)) + b)) + (a + (sqrt(sqrt(sqrt(b)) + (a + b)) + (b / a)))) / (sqrt(a) / a)))) + (a + b))))
+-----------------------
+GENERATION 163
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(b / a)) + (sqrt(b) * sqrt(sqrt(a)))) / (a - sqrt((b * sqrt(sqrt(a))) + (b + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + sqrt(b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(a + b) / b) + a) / ((a + (b - a)) + b)) + (a + (sqrt(sqrt(sqrt(b)) + (a + b)) + (b / a)))) / (sqrt(a) / a)))) + (a + b))))
+-----------------------
+GENERATION 164
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(b / a)) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt((b - a) / (b / a)))) - sqrt((b * sqrt(sqrt(a))) + (b + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + sqrt(b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(sqrt(a + b)))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(a + b) / b) + a) / ((a + (b - a)) + b)) + (a + (sqrt(sqrt(b) + (a + b)) + (b / a)))) / (sqrt(a) / a)))) + (a + b))))
+-----------------------
+GENERATION 165
+-----------------------
+((sqrt((b - a) / ((b + (sqrt(b) + (b - b))) / a)) + a) - sqrt((sqrt(((a + b) / (((((sqrt(b / a) + (a + b)) / ((a - sqrt(sqrt(b))) - ((a + b) * ((b / a) + (b / a))))) + (a + b)) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + ((a / b) + b)) / ((b - b) / (sqrt(b) / sqrt(sqrt(b))))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + sqrt((b - a) / (b / a)))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((a + (b / a)) + (((((a - sqrt(a + b)) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (b - b)) + (b / a)))) / a))) + (a + b))))
+-----------------------
+GENERATION 166
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(b / a) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((b / a) + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(sqrt(sqrt(a)))) / a)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - (b / a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(b / a) / b) + a) / (b / a)) + (a + ((sqrt(a + b) + a) + (b / a)))) / ((a + (b - b)) / a)))) + (a + b))))
+-----------------------
+GENERATION 167
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(b / a) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((b / a) + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(sqrt(sqrt(a)))) / a)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - (b / a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(b / a) / b) + a) / (b / a)) + (a + ((sqrt(a + b) + a) + (b / a)))) / ((a + (b - b)) / a)))) + (a + b))))
+-----------------------
+GENERATION 168
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(b / a) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((b / a) + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(sqrt(sqrt(a)))) / a)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - (b / a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(b / a) / b) + a) / (b / a)) + (a + ((sqrt(a + b) + a) + (b / a)))) / ((a + (b - b)) / a)))) + (a + b))))
+-----------------------
+GENERATION 169
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(b / a) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((b / a) + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(sqrt(sqrt(a)))) / a)) / ((b - b) / ((((a / b) + (a + b)) / (((b - b) + ((b / a) + (b / a))) * (b - a))) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - (b / a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(b / a) / b) + a) / (b / a)) + (a + ((sqrt(a + b) + a) + (b / a)))) / ((a + (b - b)) / a)))) + (a + b))))
+-----------------------
+GENERATION 170
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(b / a) + (sqrt(b) * sqrt(sqrt(a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((b / a) + b)))) - (b / a))) + (a + (a + b))) + (b / a)) / ((a + (((b / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(a)) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - ((a - sqrt(a)) - (b - b))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (sqrt(sqrt(a)) + (((((sqrt(b / a) / b) + a) / (b / a)) + (a + ((sqrt(a + b) + a) + (b / a)))) / ((a + (b - b)) / a)))) + (a + b))))
+-----------------------
+GENERATION 171
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - sqrt(a + b)) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 172
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - sqrt(a + b)) + a) / ((sqrt(sqrt(sqrt(b))) + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 173
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - sqrt(a + b)) + a) / ((sqrt(sqrt(sqrt(b))) + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 174
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - sqrt(a + b)) + a) / ((sqrt(sqrt(sqrt(b))) + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 175
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - sqrt(a + b)) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 176
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((sqrt(a) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 177
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 178
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 179
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + b)) + (a + b))))
+-----------------------
+GENERATION 180
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 181
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 182
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 183
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 184
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt((b - a) / b) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / ((b - a) / a))))) + (a + b))))
+-----------------------
+GENERATION 185
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(a)) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((((a - sqrt(a + b)) + a) / ((b - a) / (sqrt(b) / sqrt(sqrt(b))))) + (a + (sqrt(((b / a) / b) + (b - b)) + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 186
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(a)) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((((a - sqrt(a + b)) + a) / ((b - a) / (sqrt(b) / sqrt(sqrt(b))))) + (a + (sqrt(((b / a) / b) + (b - b)) + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 187
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(a)) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((((a - sqrt(a + b)) + a) / ((b - a) / (sqrt(b) / sqrt(sqrt(b))))) + (a + (sqrt(((b / a) / b) + (b - b)) + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 188
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(sqrt(a)) + b)) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt(a)) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((((a - sqrt(a + b)) + a) / ((b - a) / (sqrt(b) / sqrt(sqrt(b))))) + (a + (sqrt(((b / a) / b) + (b - b)) + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 189
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt(sqrt(b)))) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + (a + (b - b))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 190
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt(sqrt(b)))) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + a) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 191
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt(sqrt(b)))) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + (a + (sqrt(a + (a + b)) + (a / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 192
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt(sqrt(b)))) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + (a + (sqrt(a + a) + (a / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 193
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) / ((b - b) / (sqrt(b) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / ((((b - a) / (b / a)) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + (a + (sqrt(a + (a + b)) + (a / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 194
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt((a / (((sqrt(b / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((b + (sqrt(a + b) + sqrt(sqrt(b)))) / ((b - b) / (((b + sqrt(b)) / a) / (b / a)))) * (((sqrt(sqrt(sqrt(a))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - (a - sqrt(sqrt(sqrt(b)))))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + ((((((sqrt(b / a) + (a + b)) - sqrt(a + b)) + a) / ((a / b) / sqrt(sqrt(a + (a + b))))) + (a + (sqrt(a + (a + b)) + (a / a)))) / (b + (b / a))))) + (a + b))))
+-----------------------
+GENERATION 195
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((a + b) / ((b - b) / (b / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt((b - a) / (b / a))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / (a + (b / a)))))) + (a + b))))
+-----------------------
+GENERATION 196
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((a + b) / ((b - b) / (b / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt((b - a) / (b / a))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (sqrt(((a / b) / b) + (a + b)) + (b / a)))) / sqrt((b - a) / (a + (b / a)))))) + (a + b))))
+-----------------------
+GENERATION 197
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((a + b) / ((b - b) / (b / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt((b - a) / (b / a))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (b - a))) / sqrt((b - a) / (a + (b / a)))))) + (a + b))))
+-----------------------
+GENERATION 198
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((a + b) / ((b - b) / (b / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt((b - a) / (b / a))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)) + (((((a - (sqrt(b / a) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (b - a))) / sqrt((b - a) / (a + (b / a)))))) + (a + b))))
+-----------------------
+GENERATION 199
+-----------------------
+((sqrt((b - a) / ((b + sqrt(b)) / a)) + a) - sqrt((sqrt(((a / b) / (((sqrt(sqrt(sqrt(sqrt(b))) / a) + (b * sqrt((a / b) + (a + b)))) / ((a - sqrt(sqrt(sqrt(sqrt(b))))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b - b)) + b)))) - (sqrt(b) - (b - b)))) + (a + (a + b))) + (b / a)) / ((a + ((((a + b) / ((b - b) / (b / (b / a)))) * (((sqrt(sqrt(sqrt(b))) + (b * sqrt((b - a) / (b / a)))) / ((a - sqrt(sqrt(sqrt(b)))) - sqrt((b * sqrt(sqrt(a))) + ((a + (b / a)) + b)))) - ((a - sqrt((b - a) / (b / ((b - a) / (b / a))))) - (b - b)))) / (((b - b) + ((b / a) + (b / a))) * (b - a)))) * (a / b)))) + (b * sqrt((b / a) / sqrt((sqrt(a) / (((a / b) + b) + (((((a - (sqrt(b - b) + (a + b))) + a) / ((a + ((b / a) + (b / a))) + b)) + (a + (b - a))) / sqrt((b - a) / (a + (b / a)))))) + (a + b))))

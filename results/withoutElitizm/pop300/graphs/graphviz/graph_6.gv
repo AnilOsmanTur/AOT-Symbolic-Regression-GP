@@ -1,0 +1,31 @@
+digraph g {
+graph [ordering=out];
+node [shape=circle];
+n[label = "+"];
+n0[label = "a"];
+n -> n0;
+n1[label = "/"];
+n10[label = "a"];
+n1 -> n10;
+n11[label = "*"];
+n110[label = "/"];
+n1100[label = "a"];
+n110 -> n1100;
+n1101[label = "b"];
+n110 -> n1101;
+n11 -> n110;
+n111[label = "sqrt"];
+n1110[label = "-"];
+n11100[label = "a"];
+n1110 -> n11100;
+n11101[label = "-"];
+n111010[label = "b"];
+n11101 -> n111010;
+n111011[label = "a"];
+n11101 -> n111011;
+n1110 -> n11101;
+n111 -> n1110;
+n11 -> n111;
+n1 -> n11;
+n -> n1;
+}

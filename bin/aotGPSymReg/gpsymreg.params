@@ -1,0 +1,59 @@
+
+parent.0 = koza.params
+
+# We have one function set, of class GPFunctionSet
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+# We'll call the function set "f0".
+gp.fs.0.name = f0
+
+# We have seven functions in the function set.  They are:
+gp.fs.0.size = 7
+gp.fs.0.func.0 = aotGPSymReg.A
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = aotGPSymReg.B
+gp.fs.0.func.1.nc = nc0
+gp.fs.0.func.2 = functions.Add
+gp.fs.0.func.2.nc = nc2
+gp.fs.0.func.3 = functions.Sub
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = functions.Mul
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = functions.Div
+gp.fs.0.func.5.nc = nc2
+gp.fs.0.func.6 = functions.Sqrt
+gp.fs.0.func.6.nc = nc1
+
+
+# 300 and 1024 used
+pop.subpop.0.size       = 300
+
+generations             = 200
+
+select.tournament.size  = 3
+
+quit-on-run-complete    = true
+checkpoint              = false
+checkpoint-prefix       = ec
+checkpoint-modulo       = 1
+
+seed.0       = 469871
+
+# 5 or 0 are used
+breed.elite.0 = 0
+
+#jobs = 10
+
+eval.problem = aotGPSymReg.SymbolicRegression
+eval.problem.data = aotGPSymReg.Data
+
+# output statistics to the file "out.stat" in the directory
+# the run was started in
+
+stat.file = $out.stat
+
+stat.num-children     = 1
+stat.child.0          = aotGPSymReg.aotCustomStatistics
+stat.child.0.graph-file = graph.stat
+stat.child.0.cstyle-file = cstyle.stat
+stat.child.0.info-file = info.stat
